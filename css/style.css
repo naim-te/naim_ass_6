@@ -1,0 +1,50 @@
+/*Global CSS*/
+
+*{}
+body{}
+.container{}
+
+/*Header Section*/
+
+.logo{}
+nav{}
+nav > ul{}
+nav > ul > li{}
+nav > ul > li > a{}
+
+/*Banner Section*/
+
+.banner-section{}
+.banner-content{}
+.solid-line{}
+.about-section{}
+
+/*Feature Section*/
+
+.feature-section{}
+.feature{}
+.feature-logo{}
+.Portfolio-Section{}
+.portfolio{}
+.overlay{}
+.overlay > .fas{}
+
+/*Form Section*/
+
+.form-section{}
+form{}
+input[type="text"]{}
+input[type="email"]{}
+textarea{}
+input[type="checkbox"]{}
+label{}
+input[type="submit"]{}
+
+/*Footer Section*/
+
+footer{}
+.copyright{}
+.social-link{}
+.social-link ul{}
+.social-link ul li{}
+.social-link ul li a{}
